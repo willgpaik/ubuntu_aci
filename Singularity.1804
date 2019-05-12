@@ -27,7 +27,7 @@ From: ubuntu:18.04
         autoconf \
         libtool \
         pkg-config \
-        vi \
+        vim \
         nano
         
     apt-get clean
