@@ -7,3 +7,6 @@ List of available packages for Ubuntu:
 Recipes here may include unnecessary packages for certain software installation. Size of the container is ~600 MB
 
 More packages will be added in the future.
+
+Note: Ubuntu 18.04 image may not work on ACI clusters due to kernel version issue.  
+(Related issue: https://github.com/sylabs/singularity/issues/1275)
