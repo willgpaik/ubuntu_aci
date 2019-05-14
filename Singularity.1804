@@ -17,6 +17,7 @@ From: ubuntu:18.04
         wget \
         git
     apt-get -y install --no-install-recommends \
+        python2.7-dev \
         python3.7-dev \
         curl \
         bzip2 \
