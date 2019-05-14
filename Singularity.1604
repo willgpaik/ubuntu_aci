@@ -33,6 +33,8 @@ From: ubuntu:16.04
         
     apt-get clean
     
+    ln -s /usr/bin/python2.7 python
+    
     # Link directories
     mkdir -p /storage/home
     mkdir -p /storage/work
