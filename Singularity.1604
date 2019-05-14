@@ -17,6 +17,7 @@ From: ubuntu:16.04
         wget \
         git
     apt-get -y install --no-install-recommends \
+        python2-dev \
         python3-dev \
         curl \
         bzip2 \
