@@ -8,5 +8,5 @@ Recipes here may include unnecessary packages for certain software installation.
 
 More packages will be added in the future.
 
-Note: Ubuntu 18.04 image may not work on ACI clusters due to kernel version issue.  
+Note: Ubuntu 18.04 image may not work on ACI clusters due to old kernel version.  
 (Related issue: https://github.com/sylabs/singularity/issues/1275)
