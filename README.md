@@ -13,3 +13,6 @@ More packages will be added in the future.
 
 2019/5/14  
 Python2.7 package and symlink are added (python = python2.7)
+
+2019/5/16  
+OpenGL support is added (libglu1-mesa-dev, freeglut3-dev, and mesa-common-dev)
