@@ -29,7 +29,10 @@ From: ubuntu:18.04
         libtool \
         pkg-config \
         vim \
-        nano
+        nano \
+        libglu1-mesa-dev \
+        freeglut3-dev \
+        mesa-common-dev
         
     apt-get clean
     
