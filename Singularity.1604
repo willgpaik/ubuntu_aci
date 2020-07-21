@@ -34,6 +34,7 @@ From: ubuntu:16.04
         freeglut3-dev \
         mesa-common-dev \
         mesa-utils
+    apt-get -y install software-properties-common
         
     apt-get clean
     
