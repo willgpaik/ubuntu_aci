@@ -37,11 +37,3 @@ From: ubuntu:16.04
         
     apt-get clean
     
-    ln -s /usr/bin/python2.7 /usr/bin/python
-    
-    # Link directories
-    mkdir -p /storage/home
-    mkdir -p /storage/work
-    mkdir -p /gpfs/scratch
-    mkdir -p /gpfs/group
-    mkdir -p /var/spool/torque
