@@ -20,3 +20,6 @@ OpenGL support is added (libglu1-mesa-dev, freeglut3-dev, and mesa-common-dev)
 2020/7/21  
 Directory links are removed  
 Few updates are made to avoid package update issue
+
+2020/7/27  
+Recipe for NVIDIA driver and VirtualGL is added (Ubuntu 16.04 based)
