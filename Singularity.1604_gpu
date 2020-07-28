@@ -1,5 +1,5 @@
-From: docker
-Bootstrap: nvidia/cuda:11.0-cudnn8-devel-ubuntu16.04
+Bootstrap: docker
+From: nvidia/cuda:11.0-cudnn8-devel-ubuntu16.04
 
 %setup
     
